@@ -1,0 +1,16 @@
+streamlit
+pymongo
+pandas
+nltk
+textblob
+wordcloud
+matplotlib
+seaborn
+plotly
+transformers
+scipy
+networkx
+spacy
+scikit-learn
+sentence-transformers
+torch
