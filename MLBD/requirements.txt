@@ -16,6 +16,5 @@ sentence-transformers
 torch
 spacy
 sentence-transformers
-transformers
-torch
+
 
