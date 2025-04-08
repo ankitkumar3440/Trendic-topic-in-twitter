@@ -14,4 +14,8 @@ spacy
 scikit-learn
 sentence-transformers
 torch
-en_core_web_md
+spacy
+sentence-transformers
+transformers
+torch
+
